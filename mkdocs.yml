@@ -1,1 +1,46 @@
-site_name: My Docs
+site_name: FRC Mechanical
+repo_name: Docs Source
+repo_url: https://github.com/FRCTeam3255/FRC-Mechanical-Guide/tree/master
+edit_uri: https://github.com/FRCTeam3255/FRC-Mechanical-Guide/edit/master/docs/
+site_author: Tayler Uva
+
+# Theme
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  icon:
+    logo: 'material/laptop'
+  features:
+    - 'tabs'
+  palette:
+    primary: 'blue'
+    accent: 'light blue'
+    scheme: slate
+extra_css: 
+  - assets/css/sn.css
+use_directory_urls: false
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.betterem
+  - pymdownx.tasklist
+  - pymdownx.extra
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      css_class: 'codehilite'
+  - toc:
+        permalink: "#"
+
+# Plugins
+plugins:
+  - git-revision-date
+
+# Navigation
+nav:
+- Home:
+  - 'index.md'
+  - 'contributing.md'
