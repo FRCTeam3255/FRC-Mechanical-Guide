@@ -9,7 +9,7 @@ theme:
   name: 'material'
   custom_dir: 'theme'
   icon:
-    logo: 'material/laptop'
+    logo: 'fontawesome/solid/cogs'
   features:
     - 'tabs'
   palette:
@@ -39,8 +39,8 @@ markdown_extensions:
 plugins:
   - git-revision-date
 
-# Navigation
-nav:
-- Home:
-  - 'index.md'
-  - 'contributing.md'
+# # Navigation
+# nav:
+# - Home:
+#   - 'index.md'
+#   - 'contributing.md'

@@ -13,7 +13,7 @@ On each page there is an option to edit the page. Any changes you make through t
 
 > This icon looks like this:
 > 
-> ![](assets/images/contributing/edit_icon.png)
+> ![](../assets/images/contributing/edit_icon.png)
 
 Alternatively you could create a pull request and clone the repository
 
