@@ -1,12 +1,12 @@
 # Introductions
 
-[![FIRST](../assets/images/logos/first.png)](https://www.firstinspires.org/robotics/frc/){target=_blank}
+[![FIRST](/assets/images/logos/first.png)](https://www.firstinspires.org/robotics/frc/){target=_blank}
 
 The unofficial FIRST Robotics Competition Mechanical Guide.
 
 ## Powered by
 
-[![sn_banner](../assets/images/logos/sn_banner.png)](https://SuperNURDs.com/){target=_blank}
+[![sn_banner](/assets/images/logos/sn_banner.png)](https://SuperNURDs.com/){target=_blank}
 
 ## Contributors
 
