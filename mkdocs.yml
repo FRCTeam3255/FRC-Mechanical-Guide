@@ -10,6 +10,7 @@ theme:
   custom_dir: 'theme'
   icon:
     logo: 'fontawesome/solid/cogs'
+    repo: 'fontawesome/brands/github'
   features:
     - 'tabs'
   palette:
@@ -37,6 +38,10 @@ markdown_extensions:
 
 # Plugins
 plugins:
+  - search
+  - minify:
+      minify_html: true
+      minify_js: true
   - git-revision-date
 
 # # Navigation
