@@ -1,3 +1,10 @@
+# # Navigation
+# nav:
+# - Home:
+#   - 'index.md'
+#   - 'contributing.md'
+
+# Setup
 site_name: FRC Mechanical
 repo_name: Docs Source
 repo_url: https://github.com/FRCTeam3255/FRC-Mechanical-Guide/tree/master
@@ -44,9 +51,3 @@ plugins:
       minify_html: true
       minify_js: true
   - git-revision-date
-
-# # Navigation
-# nav:
-# - Home:
-#   - 'index.md'
-#   - 'contributing.md'
