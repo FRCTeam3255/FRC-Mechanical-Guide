@@ -1,5 +1,5 @@
 <!-- This page was contributed by:  -->
-# This is my title
+# Page title
 
 Subtitle
 
@@ -14,7 +14,17 @@ This section will help you learn to BLANK.
 
 ***
 
-## Section One
+## Gear
+
+- Some info
+- Some other into
+    - Some sub info
+
+### Spacing
+
+***
+
+## Ratios
 
 - Some info
 - Some other into
@@ -24,7 +34,7 @@ This section will help you learn to BLANK.
 
 ***
 
-## Section Two
+## RPM/Toque
 
 - Info
 - Info 2
