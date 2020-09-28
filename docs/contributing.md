@@ -6,12 +6,16 @@ Helping out with the project!
 
 There are a couple of ways to contribute to this project:
 
-- [Via the web](#via-the-web)
-- [Via local source](#via-local-source)
+- [Via the web](#via-the-web) 
+    - Recommended for quick changes and those without developer/programming experience
+- [Via local source](#via-local-source) 
+    - Recommended for those **with developer/programming experience**.
 
 ***
 
 ## Via the web
+
+Recommended for quick changes and those without developer/programming experience.
 
 ### Editing Pages
 
@@ -45,6 +49,8 @@ Please use the [New Page Template](#new-page-template)
 ***
 
 ## Via local source
+
+Recommended for those **with developer/programming experience**.
 
 ### Prerequisites
 
