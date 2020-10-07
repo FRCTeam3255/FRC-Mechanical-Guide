@@ -12,7 +12,9 @@ It is important to always use standardized measurements for everything we do so 
 
 We typically work with measurements that are [**Imperial** (Inches)](#imperial), but sometimes we will have to work with parts that are in the **Metric** system (Millimeters).
 
-There is a wide range of measurement tools such as, Rulers, Tape Measures, Calipers, and Micrometers
+<!-- TODO: Add links to measuring tools -->
+
+There is a wide range of measurement tools such as: [Rulers](../Tools/Measuring%20Tools.md#rulers), [Tape Measures](../Tools/Measuring%20Tools.md#tape-measures), Calipers, and Micrometers
 
 !!! warning
     It is important to use an **imperial tool when working on a imperial part** and a **metric tool when working on a metric part**.
