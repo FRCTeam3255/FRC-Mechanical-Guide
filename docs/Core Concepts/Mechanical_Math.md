@@ -61,5 +61,5 @@ Thousandths examples:
 
 !!! Tip
     We typically only measure to the 10 thousandths place on even our most precise parts.
-
-![](../assets/images/stock/team_3255_super_nurds_by_danteironclaw_d4t75lc-fullview.jpg)
+    
+<!-- TODO: Add Metric -->

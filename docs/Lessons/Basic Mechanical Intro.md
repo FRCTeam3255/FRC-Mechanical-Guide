@@ -4,7 +4,7 @@
 The basics of mechanical
 
 <!-- Add a page image to make it pretty! -->
-![Image Title](imageURL)
+![Basic Mechanical Cover](../assets/images/Basic%20Mechanical%20Intro/2018RobotStill1.png)
 
 ## Overview
 
@@ -26,15 +26,18 @@ This section will help you learn the basics of FRC Mechanical.
 
 - [Mechanical Resources](../Core%20Concepts/Resources.md)  
     - Good resources for Mechanical  
-![McMaster Logo](../assets/images/Basic%20Mechanical%20Intro/mcmaster.png){: style="width:100px"}
+  
+        ![McMaster Logo](../assets/images/Basic%20Mechanical%20Intro/mcmaster.png){: style="width:100px"}
 
-- [Robot Requirements](../Core%20Concepts/Robot%20Requirements.md)  
-    - TEXT  
-![Image Title](imageURL)
+- [Robot Requirements](../Core%20Concepts/../Core%20Concepts/Robot%20Requirements.md)  
+    - What the robot is designed to do. 
+   
+        ![Robot Requirments Cover](../assets/images/Basic%20Mechanical%20Intro/2019RobotScoring.png){: style="height:145px"}
 
-- [General Design](../Core%20Concepts/Robot%20Design%20Overview.md)
-    - TEXT
-![Image Title](../assets/images/logos/first.png)
+- [General Design](../Core%20Concepts/../Core%20Concepts/General%20Robot%20Design.md)
+    - How the robot executes each of game's tasks.
+
+        ![Image Title](../assets/images/logos/first.png)
 
 ## Basics on Stock
 
