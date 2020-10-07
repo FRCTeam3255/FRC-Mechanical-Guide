@@ -19,8 +19,8 @@ theme:
     logo: 'fontawesome/solid/cogs'
     repo: 'fontawesome/brands/github'
   features:
-    - tabs
-    - instant
+    - navigation.tabs
+    - navigation.instant
   palette:
     primary: 'blue'
     accent: 'light blue'

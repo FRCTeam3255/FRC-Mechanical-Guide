@@ -8,18 +8,20 @@ Using math to my your life easier.
 
 ## Standards
 
-It is important to always use standardized measurements for everything we do so every part is easy to make.
+It is important to always use standardized measurements for everything we do so every part is easy to make, and later modify.
 
 We typically work with measurements that are [**Imperial** (Inches)](#imperial), but sometimes we will have to work with parts that are in the **Metric** system (Millimeters).
 
+There is a wide range of measurement tools such as, Rulers, Tape Measures, Calipers, and Micrometers
+
 !!! warning
-    It is important to use a **imperial tool when working on a imperial part** and **metric tool when working on a metric part**.
+    It is important to use an **imperial tool when working on a imperial part** and a **metric tool when working on a metric part**.
 
 ### Imperial
 
-Many imperial measurements are based on fractions of inches
+Many imperial measurements are based on fractions of inches, or thousandths of inches
 
-Some standard imperial measurements that are commonly used are:
+Some standard fraction imperial measurements that are commonly used are:
 
 - **1/16in** (0.0625)
 - **1/8in** (0.125)
