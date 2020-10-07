@@ -32,12 +32,12 @@ Fractional measurements are typically based on **1/16ths**, **1/8ths**, **1/4ths
 
 Some of the most common fraction imperial measurements we use are:
 
-- **1/16"** (0.0625)
-- **1/8"** (0.125)
-- **3/16"** (0.1875)
-- **1/4"** (0.25)
-- **1/2"** (0.5)
-- **3/4"** (0.75)
+- **1/16"** (0.0625")
+- **1/8"** (0.125")
+- **3/16"** (0.1875")
+- **1/4"** (0.25")
+- **1/2"** (0.5")
+- **3/4"** (0.75")
 - **1"**
 
 !!! Tip
@@ -45,9 +45,9 @@ Some of the most common fraction imperial measurements we use are:
 
 Some more precise measurements are: 
 
-- **3/8"** (0.375)
-- **5/8"** (0.675)
-- **7/8"** (0.875)
+- **3/8"** (0.375")
+- **5/8"** (0.675")
+- **7/8"** (0.875")
 
 **Thousandths**  
 Thousandths measurements are based off of how many thousandths of an inch a measurement is. 
@@ -60,4 +60,6 @@ Thousandths examples:
 - **.001"** (1 thousandth of an inch)  
 
 !!! Tip
-    We normally only measure to the 10 thousandths place on even our most precise parts.
+    We typically only measure to the 10 thousandths place on even our most precise parts.
+
+![](../assets/images/stock/team_3255_super_nurds_by_danteironclaw_d4t75lc-fullview.jpg)
