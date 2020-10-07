@@ -27,7 +27,8 @@ There is a wide range of measuring tools such as: [Rulers](../Tools/Measuring%20
 
 Many imperial measurements are based on **fractions of inches**, or **thousandths of inches**.
 
-**Fractions**  
+#### Fractions 
+
 Fractional measurements are typically based on **1/16ths**, **1/8ths**, **1/4ths**, or **1/2nds** increments of whole inches. 
 
 Some of the most common fraction imperial measurements we use are:
@@ -49,7 +50,8 @@ Some more precise measurements are:
 - **5/8"** (0.675")
 - **7/8"** (0.875")
 
-**Thousandths**  
+#### Thousandths
+
 Thousandths measurements are based off of how many thousandths of an inch a measurement is. 
 
 Thousandths examples:

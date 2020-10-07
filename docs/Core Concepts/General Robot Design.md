@@ -41,10 +41,6 @@ Designing a robot is a large task and keeping using tricks and practices make it
 - Robots should be sturdy and strong to withstand impacts from other robots on the field, and gradual wear and tare from use\
 - Robots should be built modularly to ease assmebly, and also allow for easy replacements of broken part
   
-
-
-
-
 !!! Tip
     This is a tip.
 
