@@ -10,7 +10,7 @@ The unofficial FIRST Robotics Competition Mechanical Guide.
 
 ## Contributors
 
-|                       Name                       |                      Team                      | Team Role |
-| :----------------------------------------------: | :--------------------------------------------: | :-------: |
-| [Tayler Uva](https://Tayler.Tech){target=_blank} | [3255](https://SuperNURDs.com/){target=_blank} |   Coach   |
-|                     Eli Uva                      | [3255](https://SuperNURDs.com/){target=_blank} |  Alumni   |
+|                          Name                           |                      Team                      | Team Role |
+| :-----------------------------------------------------: | :--------------------------------------------: | :-------: |
+|    [Tayler Uva](https://Tayler.Tech){target=_blank}     | [3255](https://SuperNURDs.com/){target=_blank} |   Coach   |
+| [Eli Uva](https://grabcad.com/eli.uva-1){target=_blank} | [3255](https://SuperNURDs.com/){target=_blank} |  Alumni   |

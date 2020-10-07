@@ -26,6 +26,9 @@ This section will help you learn to BLANK.
 
 ## Tape Measures
 
+![](../assets/images/Measuring%20Tools/Tape%20Measure.png){: style="width:300px"}
+![](../assets/images/Measuring%20Tools/Calipers2.png){: style="height:200px"}
+
 - Info
 - Info 2
 
