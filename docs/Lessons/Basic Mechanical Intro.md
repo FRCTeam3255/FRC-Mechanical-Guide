@@ -41,6 +41,9 @@ This section will help you learn the basics of FRC Mechanical.
 
 ## Basics on Stock
 
+- [Sheet Metal](../Stock/Sheet%20Metal.md)
+- [Rectangle Tubing](../Stock/Rectangle%20Tubing.md)
+
 ## Basics on Hardware
 
 ## Basics on Mechanical Systems

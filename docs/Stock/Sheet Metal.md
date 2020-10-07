@@ -10,13 +10,14 @@ Using sheets of metal to construct your robot.
 
 - Sheet metal, is a large sheet of metal, that is typically cut into smaller pieces, or intricate shapes to be used
 - Most sheet metal used in FRC is aluminum because it is, light, easy to cut, and strong (We buy 6061 Aluminum)
+- Sheet metal makes up most custom parts on the robot, like brackets, plates a
 - Sheet metal is measured and sold by **Length**, **Width**, and, **Thickness**
 
 **See table of contents for a breakdown of this section.**
 
 ***
 
-### Size
+## Size
 
 - The **Length** and **Width** of sheet metal you buy should be based on how you will cut it out
     - If you have a router, it is normally the most cost effective to buy the largest sheet that will fit on it
@@ -28,24 +29,26 @@ Using sheets of metal to construct your robot.
     - **1/4"** (0.25") Which is very structual, and is typically used on parts of the robot that must remain very rigid, they are commonly used as gearbox plates because standard **FRC hex bearings** are .25" thick so they mount flush
 
 !!! Warning
-    The thicker the sheet metal, the heavier it is
+    The thicker the sheet metal, the heavier it is, making it important to **lightweight**, meaning to pocket or cut out sections of the material, that do not provide structure or purpose
+
+![LighweightedPart](../assets/images/Sheet%20Metal/LightweightingPicture.png)
 We most commonly uses 1/4", and 1/8" sheet metal
 ***
 
-### Fabricating sheet metal
+## Fabrication of sheet metal
 
 - Sheet metal is very versatile and can be cut, or bent to create many uses
   
-#### Cutting sheet metal
+### Cutting sheet metal
 
-##### CNC
+#### CNC
 
 - Sheet metal is typically cut with a CNC, cutters like **Routers**, **Mills**, **Water Jets**, or **Laser Cutters** (We like amny other FRC teams use a **Velox CNC router**)
 - Sheet metal is cut on CNC cutters, by creating a toolpath using CAD files for the machine to trace and give yu your parts
 - CNCs can also cut out pockets, or holes in the center of your parts as well
 - The thicker the sheet metal, the more difficult it is to cut, it is important to know the limits of your machine
   
-##### Saws
+#### Saws
 
 - If you or your team does not own a CNC Cutter, you can cut parts out, without CAD, by hand using different kinds of saws, but it will not be accurate like the machines cut
 - Sheet metal is commonly cut out by **Horizontal Bandsaws**, **Jigsaws**, and **Circular Saws**
