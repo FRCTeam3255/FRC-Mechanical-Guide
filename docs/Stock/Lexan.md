@@ -1,4 +1,4 @@
-<!-- This page was contributed by:  -->
+<!-- This page was contributed by:  **-->
 # Polycarbonate / Lexan
 
 Using Lexan in your designs
@@ -29,7 +29,7 @@ Using Lexan in your designs
 - Some common thickness include 
     - **1/16th"** (0.0625") Which is very flexible, and is commonly used on parts like walls of a hopper, or sponsor panels, and does not hold shape as well when bent 
     - **1/8"** (0.125") Which is relatively felxible, and is also commonly used on walls of a hopper or sponsor panels, but holds its shape very well when bent and allows you to create complex intriquite shapes
-    - **1/4"** (0.25") Which is quite ridgid, is commonly used for things like intakes, or other parts that extend past you robots bumpers because they are very restistant to impacts and will not easily bend or break, 1/4" lexan also allows for standard Flanged Vex Bearings to be inserted into, however they can easy fall out if just pressed in
+    - **1/4"** (0.25") Which is quite ridgid, is commonly used for things like intakes, or other parts that extend past you robots bumpers because they are very restistant to impacts and will not easily bend or break, **1/4"** lexan also allows for standard Flanged Vex Bearings to be inserted into, however they can easy fall out if just pressed in
 
 !! Warning
     When rivieting lexan, make sure to place a washer on the non mandrel side to ensure the lexan will not shatter when riveting
@@ -42,7 +42,5 @@ Using Lexan in your designs
 
 - Polycarbonate can be cut using many tools, such as a **Vertical Bandsaw**, **Jigsaw**, **CNC Router**, and even **Tin Snips**, if thin enough
 - Polycarbonate can be cut on **CNC Routers** from CAD files, similiar to sheet metal
-- Lexan can be lightweighted the same way aluminum can, however it is not very practical to cut 
-
-!!! Tip
-    This is a tip.
+- Lexan can be lightweighted the same way aluminum can, however it is not very pratical unless larger than **1/16"**
+  

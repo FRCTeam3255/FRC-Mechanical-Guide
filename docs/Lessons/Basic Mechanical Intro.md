@@ -43,7 +43,9 @@ This section will help you learn the basics of FRC Mechanical.
 
 - [Sheet Metal](../Stock/Sheet%20Metal.md)
 - [Rectangle Tubing](../Stock/Rectangle%20Tubing.md)
-
+- [L and U Channel](..stock/../../Stock/L%20and%20U%20Channel.md)
+- [Polycarbonate / Lexan](../Stock/Lexan.md)
+  
 ## Basics on Hardware
 
 ## Basics on Mechanical Systems
