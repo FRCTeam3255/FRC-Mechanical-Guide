@@ -91,8 +91,8 @@ Recommended for those **with developer/programming experience**.
 Please copy this code as a template to create your new page
 
 ```markdown
-<!-- This page was contributed by:  -->
 # Page title
+<!-- This page was contributed by:  -->
 
 Subtitle
 
