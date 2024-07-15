@@ -13,21 +13,10 @@ site_author: Tayler Uva
 
 # Theme
 theme:
-  name: 'material'
-  custom_dir: 'theme'
+  name: 'readthedocs'
   favicon: assets/favicon.png
   icon:
-    logo: 'fontawesome/solid/cogs'
-    repo: 'fontawesome/brands/github'
-  features:
-    - navigation.tabs
-    - navigation.instant
-  palette:
-    primary: 'blue'
-    accent: 'light blue'
-    scheme: slate
-extra_css: 
-  - assets/css/sn.css
+    logo: assets/favicon.png
 use_directory_urls: false
 
 # Extensions
